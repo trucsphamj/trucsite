@@ -1,0 +1,28 @@
+<p>
+        <ul>
+         <!-- add four list items -->
+		My's Graduation <br/>
+		<a href = "https://www.youtube.com/watch?v=uH3kIci43Pk" target= _blank>
+		<img src="images/award_t.jpg"/></a> <br/><br/>
+		Truc's Graduation <br/>
+         <a href = "https://www.dropbox.com/sh/6k7fq2opd5syd84/mApA8QvzhO" target= _blank>
+		 <img src="images/DSCN1148(1)_t.jpg"/></a><br/><br/>
+		Michelle's First Communion video <br/>				
+         <a href = "https://www.dropbox.com/s/0bxdnybevylb4av/Michelle%201st%20Communion.mp4" target= _blank>
+		 <img src="images/communion_t.jpg"/></a><br/><br/>
+		Michelle's First Communion photos
+		 <a href = "https://www.dropbox.com/sh/obzdrqgaocbughz/cxvNspUdnw" target= _blank>
+		 <img src="images/DSCN1296_t.jpg"/></a><br/><br/>
+		 
+		 <li>Quan has been selected to become a member of the esteemed organization... 
+			<ul> 
+			   <li> <a href = "https://www.dropbox.com/s/t2jbe8ysh8f8he6/The%20National%20Society%20of%20High%20School%20Scholars%20certificate.jpg" target= _blank>View Certificate</a> </li>
+			   <li> <a href = "https://www.dropbox.com/s/xmwhl59fknr6tse/The%20National%20Society%20of%20High%20School%20Scholars%20letter.pdf" target= _blank>View National News</a> </li>
+		 </li>
+	   </ul>
+</p>
+
+
+	  
+	  
+	  
